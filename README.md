@@ -1,15 +1,15 @@
-# 👾 Hello, friend...
+# ⚡ Hello, World... or should I say, Hello, Data.
 
-I'm an **Aspiring Data Analyst** who sees the world in datasets and hidden patterns.  
-While others scroll endlessly, I decode.  
-SQL is my weapon. Probability is my strategy.  
-Problem-solving? Just another rebellion against the noise.  
+I’m an **Aspiring Data Analyst** who believes every dataset hides a story —  
+sometimes it whispers, sometimes it screams. My job? Decode it.  
 
-⚡ Fascinated by **AI, data, and technology** — the code beneath reality.  
+⚡ Powered by **SQL, Python, and caffeine**.  
+💡 Obsessed with **AI and technology**, because the future isn’t waiting — it’s already here.  
+🎯 Goal: turn raw data into insights sharper than Stark tech and darker than an fsociety hack.  
 
 ---
 
-### 🛠️ Tech Arsenal
+### 🛠️ My Toolkit
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -19,12 +19,15 @@ Problem-solving? Just another rebellion against the noise.
 
 ---
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)  
+### ✨ Fun Facts
+- 🕶️ I debug queries faster than I debug my life.  
+- ☕ Coffee → Code → Repeat.  
+- 🤖 AI enthusiast — waiting for my own J.A.R.V.I.S. to take shape.  
+- 📊 I believe **data is power**, and with great power comes... well, cooler dashboards.  
 
 ---
 
-> *“Numbers don’t lie. People do.”*
+💡 *“The truth is... I am Iron Man. But with SQL.”*  
+
 
 
