@@ -5,6 +5,8 @@ While others scroll endlessly, I decode.
 SQL is my weapon. Probability is my strategy.  
 Problem-solving? Just another rebellion against the noise.  
 
+⚡ Fascinated by **AI, data, and technology** — the code beneath reality.  
+
 ---
 
 ### 🛠️ Tech Arsenal
@@ -16,5 +18,13 @@ Problem-solving? Just another rebellion against the noise.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
+
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)  
+
+---
+
+> *“Numbers don’t lie. People do.”*
 
 
